@@ -1,3 +1,6 @@
+// Q4- Sum of numbers of a interger
+// 123=>1+2+3 
+
 package Recursion;
 
 public class recursion4 {

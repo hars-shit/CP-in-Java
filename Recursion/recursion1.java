@@ -1,6 +1,6 @@
-package Recursion;
-// q1->  n=5;
+// Q1->  n=5;
 // print= 5,4,3,2,1 using recursion
+package Recursion;
 
 class recursion1{
     public static void main(String[] args){
