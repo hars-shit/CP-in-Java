@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "powOfTwo",
+            "request": "launch",
+            "mainClass": "Recursion.powOfTwo",
+            "projectName": "Recursion_c3d9f543"
+        },
+        {
+            "type": "java",
+            "name": "fibonaccci",
+            "request": "launch",
+            "mainClass": "Recursion.fibonaccci",
+            "projectName": "Recursion_c3d9f543"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",

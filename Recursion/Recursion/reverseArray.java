@@ -13,6 +13,6 @@ public class reverseArray {
         arr[start]=arr[end];
         arr[end]=temp;
         reverse(arr, start+1, end-1);
-       System.out.println(arr);
+    
     }
 }
